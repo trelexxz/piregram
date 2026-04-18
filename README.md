@@ -7,7 +7,7 @@
 [![build](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![vpn](https://img.shields.io/badge/network-RadminVPN-blue)]()
 [![platform](https://img.shields.io/badge/platform-windows-lightgrey)]()
-[![license](https://img.shields.io/badge/license-MIT-orange)]()
+[![license](https://img.shields.io/badge/license-GPL--2.0-blue)]()
 
 </div>
 
