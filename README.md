@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yapx.ru/album/daqo4" width="230" alt="Piregram Logo">
+  <img src="https://i.yapx.ru/daqo5.png" width="230" alt="Piregram Logo">
 </p>
 
 <div align="center">
@@ -76,7 +76,7 @@ soon...
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://yapx.ru/album/daqyk" width="800">
+  <img src="https://i.yapx.ru/daqyn.png" width="800">
 </p>
 
 
