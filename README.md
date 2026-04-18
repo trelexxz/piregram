@@ -71,26 +71,12 @@ User B ──┘
 
 ## 📥 Installation
 
-### 1. Скачать проект
-
-```bash
-git clone https://github.com/yourname/piregram.git
-cd piregram
-```
-
-### 2. Запуск
-
-```bash
-npm install
-npm start
-```
-
----
+soon...
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://i.imgur.com/your-screenshot.png" width="800">
+  <img src="https://yapx.ru/album/daqyk" width="800">
 </p>
 
 
