@@ -92,7 +92,7 @@ soon...
 
 ## 👨‍💻 Authors
 
-Made with trelexx, savik(dr_demonshii)
+Made with trelexx, savik(dr_demoshii)
 
 ---
 
